@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: HolyCat
+## Notes: State-machine Feral Druid DPS automation (Turtle WoW / SuperWoW Edition).
+## Version: 3.2.0
+## SavedVariables: HCConfig
+HolyCat.lua
