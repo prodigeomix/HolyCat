@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: HolyShift
+## Notes: State-machine Feral Druid DPS automation (Turtle WoW / SuperWoW Edition).
+## Version: 3.1.31
+## SavedVariables: HSConfig
+HolyShift.lua
